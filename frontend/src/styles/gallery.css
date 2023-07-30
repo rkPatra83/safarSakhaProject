@@ -1,0 +1,39 @@
+.image__upload{
+    border: 1px solid var(--secondary-color);
+    border-radius: 1rem;
+    background-color:rgba(241, 239, 229, 0.603);
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.image__upload h4{
+    padding: 1rem;
+    font-family: var(--font-name);
+}
+
+.image{  
+    border: 1px solid rgba(139, 211, 5, 0.897);
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+.gallery__content h4{
+    background-color: aqua;
+    border-radius: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallery__images{
+    background-color: beige;
+    border: 1px solid var(--secondary-color);
+    padding: 5rem;
+    border-radius: 1rem;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+img{
+    width: 100%;
+    display: block;
+    border-radius: 0.5rem;
+}
